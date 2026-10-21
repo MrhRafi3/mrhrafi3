@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm a Flutter developer from Bangladesh 🇧🇩 who enjoys building clean, user-friendly mobile applications. I'm also learning C++ and Data Structures &amp; Algorithms, constantly improving my development skills through real-world projects.
+I'm a Flutter developer passionate about building clean, intuitive, and user-friendly mobile applications. I enjoy turning ideas into practical digital experiences while continuously improving my skills through real-world projects. Alongside Flutter, I'm strengthening my foundation in C++ and Data Structures & Algorithms to grow as a problem-solving developer.
 
 ### 🛠️ Tech Stack
 
