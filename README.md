@@ -94,7 +94,7 @@ I'm also strengthening my skills in **C++, Data Structures & Algorithms, and mod
 ## Connect
 
 <p align="center">
-  <a href="https://mrh-rafi.vercel.app/">
+  <a href="[https://mrh-rafi.vercel.app](https://mrh-rafi-portfolio.vercel.app)/">
     <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=58d68d" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mrhrafi">
